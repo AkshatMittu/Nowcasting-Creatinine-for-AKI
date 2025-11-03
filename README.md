@@ -29,10 +29,14 @@ Ablation studies confirmed the importance of time-aware and abnormality features
 ---
 
 ### Project Structure
-├── data/ # MIMIC-III CSVs (patients, admissions, labs, etc.)
-├── main.py # Main execution file
-├── requirements.txt # Python dependencies
-├── utils/ # Functions for fetching, preprocessing, modeling
+├── data/
+
+├── main.py
+
+├── requirements.txt
+
+├── utils/
+
 └── README.md
 
 Please run the following commands:
