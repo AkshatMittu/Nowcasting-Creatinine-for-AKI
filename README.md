@@ -26,19 +26,6 @@ We used **XGBoost** and a **Neural Network (PyTorch)** for binary classification
 
 Ablation studies confirmed the importance of time-aware and abnormality features. We also tried using Neural-ODE for irregular timestamped data.
 
----
-
-### Project Structure
-├── data/
-
-├── main.py
-
-├── requirements.txt
-
-├── utils/
-
-└── README.md
-
 Please run the following commands:
 
 ```bash
